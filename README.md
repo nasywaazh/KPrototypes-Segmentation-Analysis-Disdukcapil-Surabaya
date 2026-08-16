@@ -1,1 +1,8 @@
 ## Analisis Segmentasi Pengguna Layanan Dispendukcapil Kota Surabaya Menggunakan Algoritma K-Prototypes
+
+<p align="justify">
+Pada proyek ini, algoritma K-Prototypes digunakan untuk mengelompokkan pengguna layanan Dinas Kependudukan dan Pencatatan Sipil Kota Surabaya berdasarkan karakteristik layanan yang digunakan, usia, jenis pekerjaan, dan tingkat pendidikan. Penelitian ini bertujuan untuk mengidentifikasi segmen pengguna layanan yang memiliki karakteristik serupa sehingga dapat memberikan wawasan yang relevan dalam memahami karakteristik setiap kelompok dan mendukung perumusan strategi peningkatan kualitas layanan publik.
+</p>
+<p align="justify">
+K-Prototypes merupakan salah satu algoritma clustering berbasis partisi yang dirancang untuk menangani data campuran, yaitu data yang terdiri dari atribut numerik dan kategorikal. Algoritma ini menggabungkan prinsip pengukuran jarak dari algoritma K-Means untuk data numerik dan K-Modes untuk data kategorikal. K-Prototypes bekerja dengan cara mengoptimalkan pusat klaster (prototype) yang menggabungkan nilai rata-rata (mean) untuk atribut numerik dan nilai terbanyak (modus) untuk atribut kategorikal. Melalui pendekatan ini, algoritma K-Prototypes dapat menghasilkan klaster yang homogen dan terpisah dengan baik. Keunggulan utama K-Prototypes terletak pada kemampuannya dalam mengelola data campuran secara langsung tanpa perlu melakukan transformasi atau encoding kompleks pada data kategorikal. Selain itu, algoritma ini sangat efisien dan skalabel dari sisi kompleksitas algoritma sehingga mampu menangani dataset berukuran sangat besar.
+</p>
